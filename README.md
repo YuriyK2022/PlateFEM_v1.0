@@ -1,6 +1,6 @@
 # PlateFEM_v1.0
-Приложение PlateFEM v1.0 позвоялет осуществлять автоматизацию расчетов тонких круглых пластин под действием постоянных равномерно распределеных нагрузок и при различных условиях закрепления.
-Рабочий архив PlateFEm_v1.0.rar содержит исходник программы на Python и необходимые папки для корректной работы программы.
-Функции PyMAPDL доступны только при наличии установленного комплекса Ansys.
-В папке icons хранятся значки программы
-В папке image - необходимые графические файлы для некоторых окон программы.
+The PlateFEM v1.0 application allows for automated calculations of thin circular plates under constant uniformly distributed loads and under various fixing conditions.
+The working archive PlateFEm_v1.0.rar contains the source code of the Python program and the folders required for the correct operation of the program.
+PyMAPDL functions are only available if you have the Ansys suite installed (Ansys Mechanical Premium or Enterprise).
+The icons folder contains program icons.
+In the image folder - the necessary graphic files for some program windows.
